@@ -1,0 +1,40 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+#header {
+	text-align:center;
+}
+
+footer {
+	margin-top: 30px;
+}
+#buttons{
+	margin-top: 90px;
+}
+
+.fiche {
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+nav {
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+.footer{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
